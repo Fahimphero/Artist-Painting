@@ -1,0 +1,16 @@
+[
+    {
+        "_id": 1,
+        "name": "Kimberly R Moseler",
+        "ratings": 5,
+        "ratingsClass": 5,
+        "learners": 21,
+        "image": "https://i.ibb.co/L87LWrw/People-1.png",
+        "body": "In this 5 day class we will explore artist Monet, Matisse, Van Gough, among others and then recreate paintings using crayon and watercolor. Students will have fun learning about the artists & creating their own art inspired by their work.",
+        "reviews": "467",
+        "classReviews": "5",
+        "art1": "https://i.ibb.co/VHGFRgM/Art2.jpg",
+        "art2": "https://i.ibb.co/98gXVXp/Art3.jpg",
+        "art3": "https://i.ibb.co/FnsXJ2j/Art4.jpg"
+    }
+]
